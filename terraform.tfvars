@@ -1,5 +1,5 @@
-access_key="replace-with-your-aws-access-key"
-secret_key="replace-with-your-aws-secret-key"
+access_key="AKIAJZBVOLL3NZGEIKMQ"
+secret_key="KBC0GAR6pTJHBvvlraTNvobdHcoNwx1/V+hZo4cs"
 region = "ap-southeast-1"                       #AWS EC2 Region
 image_id = "ami-b7f388cb"                       #AWS Ubuntu/Rhel Image code dependent on region
 key_pair_name = "aws-icp"                       #Key Pair Name to be created in AWS
